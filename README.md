@@ -43,7 +43,7 @@ Add some particle effects to the scene. For example:
 
 You may wish to download some of the standard particle materials from the Standard Assets package. 
 
-## Task 4: Optional Extensions
+## Task 5: Optional Extensions
 
 If you complete all of the above tasks before the end of the practical, or would like to continue to develop your skills in your free study time, then you should consider attempting the following tasks:
 
